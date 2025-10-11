@@ -47,9 +47,9 @@ jsonschema
 jsonpointer
 cloudpickle
 mkl-service
-pywin32
 PyQt5
 PyQtWebEngine
 streamlit
+
 
 
