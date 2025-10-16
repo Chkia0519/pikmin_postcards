@@ -1,1 +1,1 @@
-web: gunicorn pikmin_postcards.wsgi
+web: gunicorn mysite.wsgi
