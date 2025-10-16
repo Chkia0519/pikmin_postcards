@@ -1,55 +1,8 @@
-﻿# 基礎工具
-appdirs
-attrs
-atomicwrites
-colorama
-cycler
-decorator
-
-# 網路/HTTP
-requests
-charset-normalizer
-certifi
-idna
-urllib3
-
-# HTML / XML / 爬蟲
-beautifulsoup4
-lxml
-html5lib
-scrapy
-selenium
-
-# Flask / Django / Web
-Flask
-Jinja2
-Django
-python-decouple
-dj-database-url
-
-# 資料庫
-psycopg2-binary
-mysql-connector-python
-sqlparse
-
-# Jupyter / Notebook
-ipykernel
-ipython
-ipywidgets
-
-# 其他工具
-pyyaml
-sympy
-black
-isort
-defusedxml
-jsonschema
-jsonpointer
-cloudpickle
-mkl-service
-PyQt5
-PyQtWebEngine
-streamlit
-
-
-
+Django==5.2.6
+gunicorn==23.0.0
+python-decouple==3.8
+dj-database-url==3.0.1
+psycopg2-binary==2.9.10
+sqlparse==0.5.3
+whitenoise==6.7.0
+requests==2.32.4
